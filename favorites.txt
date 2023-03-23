@@ -1,8 +1,15 @@
 ADIPURUSH
+chicken
+mutton
+prance
 RRR
 KGF
 DASARA
-USTAAD
-SALAAR
+seven
 HHVM
 MICHEAL
+SALAAR
+=======
+thirteen
+twelve
+eleven 
